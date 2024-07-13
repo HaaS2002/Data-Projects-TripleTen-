@@ -4,3 +4,5 @@ Analysis of the Vacation Rental Market in Manhattan - I analyzed Airbnb data for
 Analysis of Ride-Sharing Data for Zuber - I examined ride-sharing data to identify passenger preferences and the influence of external factors like weather on ride frequency. The project involved exploratory data analysis, including ride counts by company and the impact of weather conditions on ride durations from the Loop to O'Hare International Airport. Insights gained were aimed at enhancing Zuber’s operational strategy in Chicago.
 
 Turning Event Logs into Business Metrics - I transformed raw transaction logs into actionable business metrics. The project involved creating a conversion funnel to analyze user interactions and performing cohort analysis to track customer retention. These insights helped the executive team understand website performance and user behavior.
+
+Saving SuperStore - I analyzed operations using data visualizations to identify profit and loss centers, assess advertising strategies, and examine product return rates. The project provided actionable insights to help the superstore make informed decisions to avoid bankruptcy and enhance profitability.
