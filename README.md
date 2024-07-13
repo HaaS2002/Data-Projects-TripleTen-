@@ -8,3 +8,5 @@ Turning Event Logs into Business Metrics - I transformed raw transaction logs in
 Saving SuperStore - I analyzed operations using data visualizations to identify profit and loss centers, assess advertising strategies, and examine product return rates. The project provided actionable insights to help the superstore make informed decisions to avoid bankruptcy and enhance profitability.
 
 Story_Telling_with_Data - In this project, I analyzed Superstore's order return data to identify root causes and reduce the volume of returned orders. Using various visualizations, I explored return rates by product, customer, geography, and time. The final dashboard and presentation provided actionable insights for the CEO to mitigate return rates effectively.
+
+Power BI Analysis of Shopify Apps - Conducted a comprehensive analysis of Shopify apps using Power BI to determine key success factors. The project involved creating visualizations to explore app statistics, review dynamics, and developer responsiveness. Insights provided a deeper understanding of app performance and areas for improvement.
