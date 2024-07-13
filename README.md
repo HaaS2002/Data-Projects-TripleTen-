@@ -1,2 +1,3 @@
-# Story-Telling-with-Data
-This project analyzes SuperStore's product return rates to identify key factors behind high returns. By examining data across geography, time, categories, and customer segments, it provides actionable insights and recommendations to reduce returns, improve product quality, and boost customer satisfaction
+# Tech Projects
+Analysis of the Vacation Rental Market in Manhattan - I analyzed Airbnb data for Manhattan to guide a client’s investment in vacation rentals. The project involved data cleaning, identifying popular neighborhoods and property types, calculating occupancy rates, and estimating annual revenue for potential investments. I provided actionable insights to help prioritize property selection and optimize rental income.
+
