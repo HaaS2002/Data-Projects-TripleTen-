@@ -6,3 +6,5 @@ Analysis of Ride-Sharing Data for Zuber - I examined ride-sharing data to identi
 Turning Event Logs into Business Metrics - I transformed raw transaction logs into actionable business metrics. The project involved creating a conversion funnel to analyze user interactions and performing cohort analysis to track customer retention. These insights helped the executive team understand website performance and user behavior.
 
 Saving SuperStore - I analyzed operations using data visualizations to identify profit and loss centers, assess advertising strategies, and examine product return rates. The project provided actionable insights to help the superstore make informed decisions to avoid bankruptcy and enhance profitability.
+
+Story_Telling_with_Data - In this project, I analyzed Superstore's order return data to identify root causes and reduce the volume of returned orders. Using various visualizations, I explored return rates by product, customer, geography, and time. The final dashboard and presentation provided actionable insights for the CEO to mitigate return rates effectively.
