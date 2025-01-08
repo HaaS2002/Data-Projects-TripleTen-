@@ -11,4 +11,4 @@ Story_Telling_with_Data - In this project, I analyzed Superstore's order return 
 
 Power BI Analysis of Shopify Apps - Conducted a comprehensive analysis of Shopify apps using Power BI to determine key success factors. The project involved creating visualizations to explore app statistics, review dynamics, and developer responsiveness. Insights provided a deeper understanding of app performance and areas for improvement.
 
-Zomato Data Restaurant Analysis: This is the Presentation and Illustration of the Restaurant Analysis Task within the TripleTen curriculum. In this I have both shown visualizations as well as given key insights and recommendations regarding current and future restaurants and how to make them more successful.
+Zomato Data Restaurant Analysis: This is the Presentation and Illustration of the Restaurant Analysis Task within the TripleTen curriculum. In this I have both shown visualizations made in Tableau as well as given key insights and recommendations regarding current and future restaurants and how to make them more successful. 
